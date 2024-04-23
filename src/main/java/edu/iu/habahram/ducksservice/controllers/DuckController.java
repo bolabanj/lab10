@@ -1,7 +1,6 @@
 package edu.iu.habahram.ducksservice.controllers;
 
 import edu.iu.habahram.ducksservice.model.DuckData;
-import edu.iu.habahram.ducksservice.model.Duck;
 import edu.iu.habahram.ducksservice.repository.DucksRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
